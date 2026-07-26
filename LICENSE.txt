@@ -1,0 +1,47 @@
+==============================================================================
+                       COPYRIGHT AND LICENSE NOTICE
+                     INFORMACJA O PRAWACH AUTORSKICH I LICENCJI
+===============================================================================
+
+[ENGLISH VERSION]
+
+Copyright (c) 2026 PATP Audio / Jan. All rights reserved.
+
+The source code and associated files contained within this repository are the 
+sole property of the copyright holder. They are published exclusively for 
+educational, reference, and view-only purposes.
+
+By accessing or viewing this code, you agree to the following terms:
+1. UNAUTHORIZED COPYING, REDISTRIBUTION, MODIFICATION, RE-LICENSING, OR 
+   COMMERCIAL USE OF THIS SOFTWARE, OR ANY PORTION THEREOF, VIA ANY MEDIUM, 
+   IS STRICTLY PROHIBITED WITHOUT PRIOR EXPLICIT WRITTEN PERMISSION FROM 
+   THE COPYRIGHT HOLDER.
+2. You may not reverse engineer, decompile, or create derivative works based 
+   upon this software.
+3. This software is provided "as is", without warranty of any kind, express or 
+   implied. In no event shall the author be liable for any claim, damages, or 
+   other liability arising from the use of this software.
+
+-------------------------------------------------------------------------------
+
+[WERSJA POLSKA]
+
+Prawa autorskie (c) 2026 PATP Audio / Jan. Wszelkie prawa zastrzeżone.
+
+Kod źródłowy oraz dołączone do niego pliki znajdujące się w tym repozytorium 
+stanowią wyłączną własność właściciela praw autorskich. Zostały one opublikowane 
+wyłącznie w celach edukacyjnych, referencyjnych oraz do wglądu.
+
+Dostęp do tego kodu lub jego przeglądanie oznacza akceptację następujących warunków:
+1. BEZWZGLĘDNIE ZABRANIA SIĘ NIEAUTORYZOWANEGO KOPIOWANIA, ROZPOWSZECHNIANIA, 
+   MODYFIKOWANIA, UDZIELANIA SUBLICENCJI LUB KOMERCYJNEGO WYKORZYSTYWANIA NINIEJSZEGO 
+   OPROGRAMOWANIA (LUB JAKIEJKOLWIEK JEGO CZĘŚCI) NA JAKIMKOLWIEK NOŚNIKU BEZ 
+   UPRZEDNIEJ, WYRAŹNEJ PISEMNEJ ZGODY WŁAŚCICIELA PRAW AUTORSKICH.
+2. Zabrania się inżynierii wstecznej, dekompilacji oraz tworzenia dzieł 
+   pochodnych na podstawie tego oprogramowania.
+3. Oprogramowanie jest dostarczane w stanie "takim, jaki jest" ("as is"), bez 
+   jakichkolwiek gwarancji, wyraźnych lub dorozumianych. W żadnym wypadku autor 
+   nie ponosi odpowiedzialności za jakiekolwiek roszczenia, szkody lub inną 
+   odpowiedzialność wynikającą z użytkowania tego oprogramowania.
+
+===============================================================================
