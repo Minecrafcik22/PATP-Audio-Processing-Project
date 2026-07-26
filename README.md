@@ -22,15 +22,7 @@ Nie musisz znać programowania ani instalować Pythona!
 
 1. Przejdź do sekcji **[Releases](../../releases)** po prawej stronie repozytorium.
 2. Pobierz najnowszą wersję pliku `PATP_Audio_v2.3.exe`.
-3. Uruchom plik i ciesz się nowym brzmieniem swoich ulubionych utworów!
-
----
-
-## 📸 Wygląd Aplikacji
-
-*(Tutaj możesz wkleić zrzut ekranu swojego programu, wrzucając zdjęcie bezpośrednio do edytora na GitHubie)*
-
----
+3. Uruchom plik i ciesz się nowym brzmieniem swoich ulubionych utworów.
 
 ## 📜 Licencja i Prawa Autorskie / License
 
